@@ -1,4 +1,4 @@
-#### 🧵 sustainable-fashion-trend-analyzer
+# Sustainable Fashion Trend Analyzer
 
 **Overview:**
 This project explores sustainability trends in the fashion industry using a Kaggle dataset.
